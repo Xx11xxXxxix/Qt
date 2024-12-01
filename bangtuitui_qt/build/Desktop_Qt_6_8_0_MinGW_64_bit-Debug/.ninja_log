@@ -19,3 +19,11 @@
 17945	24341	7547247399603059	CMakeFiles/bangtuitui_qt.dir/netease/widgets/recommendwidget.cpp.obj	84458ee132f0bb1c
 16384	26513	7547247383981344	CMakeFiles/bangtuitui_qt.dir/netease/mainpage/mainpage.cpp.obj	c40b268f7ca83bd
 26513	27461	7547247485272645	bangtuitui_qt.exe	b4bdf32ab5f6b200
+24	1491	7547491693882209	bangtuitui_qt_autogen/timestamp	d40529c76d40a54c
+24	1491	7547491693882209	bangtuitui_qt_autogen/mocs_compilation.cpp	d40529c76d40a54c
+24	1491	7547491693882209	D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/bangtuitui_qt_autogen/timestamp	d40529c76d40a54c
+24	1491	7547491693882209	D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/bangtuitui_qt_autogen/mocs_compilation.cpp	d40529c76d40a54c
+1560	2208	7547491697140370	CMakeFiles/bangtuitui_qt.dir/admin/models/admin_user.cpp.obj	710ef71ebf7b42e
+1591	2209	7547491697450199	CMakeFiles/bangtuitui_qt.dir/admin/widgets/admin_widgets.cpp.obj	294a0a261d2f10da
+1637	2853	7547491697909939	CMakeFiles/bangtuitui_qt.dir/common/database/account_mapper.cpp.obj	3269e497feea1025
+1505	9038	7547491696590677	CMakeFiles/bangtuitui_qt.dir/mainwindow.cpp.obj	b42109421434441

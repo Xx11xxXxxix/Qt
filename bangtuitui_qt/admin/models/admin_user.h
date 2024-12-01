@@ -11,6 +11,7 @@ public:
     QString id;
     QString username;
     QString neteaseId;
+    QString mobile;
     int loginCounts;
     QDateTime lastLoginTime;
 
