@@ -15,6 +15,13 @@ public:
 
     // 验证码登录（自动注册）
     bool loginWithCode(const QString& mobile, const QString& code);
+    bool linkNeteaseAccount(const QString& adminId, const QString& neteaseId);
+    bool unlinkNeteaseAccount(const QString& adminId, const QString& neteaseId);
+    QList<QString> getLinkedAccounts(const QString& adminId);
+
+    // 会话管理
+    QString createLinkToken(const QString& adminId);
+    bool validateLinkToken(const QString& token, QString& adminId);
 
 private:
     QMap<QString, QString> verificationCodes; // 存储手机号-验证码映射
