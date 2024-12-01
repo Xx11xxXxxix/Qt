@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bangtuitui_qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bangtuitui_qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bangtuitui_qt-Debug-d2d20d5383296eac485b.json",
+					"name" : "bangtuitui_qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bangtuitui_qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bangtuitui_qt_autogen-Debug-b8d18661074029f9e670.json",
+					"name" : "bangtuitui_qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bangtuitui_qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bangtuitui_qt_autogen_timestamp_deps-Debug-09804ad4d34077b5d19a.json",
+					"name" : "bangtuitui_qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

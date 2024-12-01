@@ -1,0 +1,5 @@
+D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/cmake-build-release-mingw/CMakeFiles/bangtuitui_qt.dir
+D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
+D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir
+D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/cmake-build-release-mingw/CMakeFiles/bangtuitui_qt_autogen_timestamp_deps.dir
+D:/11111111111/Qt/bangtuitui_qt3/bangtuitui_qt/cmake-build-release-mingw/CMakeFiles/bangtuitui_qt_autogen.dir
